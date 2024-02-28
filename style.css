@@ -1,0 +1,9 @@
+.pt
+{
+    color:blue;
+    text-decoration:underline;
+}
+.ft{
+    display: flex;
+    justify-content: space-between;
+}
